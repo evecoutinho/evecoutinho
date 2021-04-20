@@ -17,10 +17,9 @@ My name is Everton Coutinho. I work as a Java Developer at Travelex Bank.
 
 ### Let's connect? 🤝
 
-<p align="left">
+<p align="inline">
 
 <a href="https://www.linkedin.com/in/everton-c-979bb4b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
 <a href="https://www.instagram.com/evercoutinho/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
