@@ -19,6 +19,8 @@ My name is Everton Coutinho. I work as a Java Developer at Travelex Bank.
 
 [![evecoutinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=evecoutinho&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/evecoutinho)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evecoutinho&theme=dark&show_icons=true)
+
 ### Let's connect? 🤝
 
 <p align="left">
