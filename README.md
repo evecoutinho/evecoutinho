@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-My name is Everton Coutinho. I work as a Java Developer at Travelex Bank.
+My name is Everton Coutinho. I work as a Kotlin Developer at GFT Group.
 
 ### Languages & Tools 🛠  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
