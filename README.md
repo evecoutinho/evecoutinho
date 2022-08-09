@@ -11,9 +11,9 @@ My name is Everton Coutinho. I work as a Kotlin Developer at GFT Group.
 
 ### Analytics ⚙️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evecoutinho&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/evecoutinho)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evecoutinho&layout=compact&count_private=true&theme=gotham)](https://github.com/evecoutinho)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evecoutinho&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/evecoutinho)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evecoutinho&count_private=true&show_icons=true&theme=gotham)](https://github.com/evecoutinho)
 
 ### Let's connect? 🤝
 
