@@ -4,7 +4,8 @@
 My name is Everton Coutinho. I work as a Kotlin and Java Developer.
 
 ### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;
+
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=yellow)&nbsp;  
 
